@@ -5,7 +5,7 @@
 #pragma semicolon 1
 #pragma newdecls required
 
-#define PLUGIN_VERSION "0.0.13"
+#define PLUGIN_VERSION "0.0.13.b.ss25"
 
 #define GAMEHUD_TIE 3
 #define GAMEHUD_JINRAI 4
